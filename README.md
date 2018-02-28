@@ -15,7 +15,6 @@
 ## future development
 - fix Dot button
 - math form
-- 
 
 ## other document
 - https://www.unzeen.com/article/1059/
