@@ -1,4 +1,4 @@
-# myCal : Android App Calculator
+# myCal : App Android Calculator
 ![myCal.PNG](https://raw.githubusercontent.com/LITTL3BEAR/myCal/master/myCal.PNG)
 
 ## method
@@ -13,8 +13,9 @@
 - onClickDel
 
 ## future development
-- fix . button
-- math form calculate
+- fix Dot button
+- math form
+- 
 
 ## other document
 - https://www.unzeen.com/article/1059/
