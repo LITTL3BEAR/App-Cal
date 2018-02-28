@@ -1,8 +1,7 @@
-## myCal
-# App Android Calculator
+# myCal : Android App Calculator
 ![myCal.PNG](https://raw.githubusercontent.com/LITTL3BEAR/myCal/master/myCal.PNG)
 
-method
+## method
 - calculate : calculation
 - isOperand : check operand
 - getResual
@@ -13,9 +12,9 @@ method
 - onClickClear
 - onClickDel
 
-future development
+## future development
 - fix . button
 - math form calculate
 
-other document
+## other document
 - https://www.unzeen.com/article/1059/
